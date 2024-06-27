@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_topaz.mk
+    $(LOCAL_DIR)/bliss_topaz.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_topaz-user \
-    superior_topaz-userdebug \
-    superior_topaz-eng
+    bliss_topaz-user \
+    bliss_topaz-userdebug \
+    bliss_topaz-eng
